@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "4ec0945d0ec78e86",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdddc2a1c789d460",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f331831383a300e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1ac38ca525135e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "847ce17eaac9ee0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f74334b2da5dd7b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dosya Gezgini"
+            }
+          },
+          {
+            "id": "1665c44e4922a46c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1f51f3b62f2ea1cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "777d8d57f76b6384",
+    "type": "split",
+    "children": [
+      {
+        "id": "76b267a61b68ada4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4da37505d0d1a7e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LAravel/Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "55cab82d66170b94",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LAravel/Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "2e9d8071beda21d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d8517b110dede069",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LAravel/Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Hızlı geçişi aç": false,
+      "graph:Grafik görünümünü aç": false,
+      "canvas:Yeni tuval oluşturun": false,
+      "daily-notes:Bugünün Notunu Aç": false,
+      "templates:Şablon ekle": false,
+      "command-palette:Komut paletini aç": false
+    }
+  },
+  "active": "f74334b2da5dd7b5",
+  "lastOpenFiles": [
+    "p/ş/_assets/E44_1986.jpg",
+    "p/ş/_assets",
+    "E44_1986 1.jpg",
+    "LAravel/Welcome.md",
+    "p/ş/Başlıksız.md",
+    "p/ş",
+    "p",
+    "E44_1986.jpg",
+    "Postman.lnk",
+    "Pasted image 20241211111604.png",
+    "LAravel"
+  ]
+}
